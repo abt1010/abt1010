@@ -88,17 +88,6 @@ A console-based Caro game developed to practise procedural programming, game log
 
 C C++ Procedural Programming
 
-What I'm exploring... 🌱
-
-Cloud infrastructure and cloud security
-
-Computer networking and Linux
-
-Secure backend development
-
-Data structures and algorithms
-
-Building and deploying full-stack applications
 
 <p align="center">
   <i>“The best way to understand a system is to build one.”</i>
