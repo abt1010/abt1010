@@ -2,7 +2,7 @@
   <img src="https://github.com/user-attachments/assets/021eb644-df00-4f32-af39-53187c953d71" alt="pixel art banner" width="100%" />
 </p>
 
-<h1 align="center">Hi there, I'm Âu Bảo Trân 👋</h1>
+<h1 align="center">Hi there, I'm Tran Au 👋</h1>
 
 <p align="center">
   <strong>Information Technology Student @ HCMUS</strong>
@@ -10,7 +10,7 @@
 
 <p align="center">
   Exploring software development, cloud systems, and cybersecurity.<br>
-  Turning complex problems into practical solutions — one commit at a time.
+  Turning complex problems into practical solutions.
 </p>
 
 <p align="center">
@@ -28,10 +28,9 @@
 A little about me... ✨
 
 🎓  Information Technology student at HCMUS
-☁️  Aspiring Cloud Security Engineer
+☁️  Aspiring Cloud Engineer
 🧑‍💻  Full-stack development enthusiast
-🛡️  Interested in cloud infrastructure, networking, and security
-🤝  Experienced in Agile workflows and Scrum teamwork
+🛡️  Interested in cloud infrastructure, networking
 
 I enjoy understanding how systems work behind the scenes—from application logic and databases to cloud infrastructure and security.
 
