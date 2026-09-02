@@ -1,34 +1,115 @@
-![Pixel Art Banner](./assets/banner.gif)
-
-## Hi there, I'm Âu Bảo Trân 👋
-
-***abt1010/abt1010*** is where I introduce myself, document my learning journey, and share the projects I build along the way.
-
-I'm an Information Technology student at HCMUS (VNUHCM - University of Science), passionate about software development, cloud systems, and turning complex problems into practical solutions.
-
-## Something about me... ✨
-
-- 🎓 I'm studying **Information Technology at HCMUS**.
-- ☁️ I'm working toward becoming a **Cloud Security Engineer / Full-stack Developer**.
-- 💻 My tech stack currently involves **C++, Python (FastAPI, Streamlit), SQL, and Firebase**, alongside **JavaScript, Node.js, and React**.
-- 🤝 I actively participate in the community, serving as Project Manager for the **"DEBUG Cuối Kỳ"** program and joining volunteer campaigns like **Xuân Yêu Thương** & **Xuân Tình Nguyện**.
-- 🚀 I enjoy Agile methodologies and have experience working in Scrum teams.
-- 📫 Contact me at: **[Your Email]**
-- ⚡ Fun facts: When I'm not coding, I'm probably creating pixel art, tracking down Witcher gear in *The Witcher 3*, or doing some home workouts!
-
-## Things I work with... 🛠️
-
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,nodejs,react,firebase,mysql,fastapi,git,github,linux,docker" />
+<p align="center">
+  <img src="./assets/banner.gif" alt="Pixel art banner" width="100%" />
 </p>
 
-## What I'm building & My Projects... 🚀
-
-- 🌍 **Travel Website:** Collaborating in an 8-member Agile Scrum team.
-- 📝 **Note-taking Web App:** Built and deployed using Firebase Firestore and Streamlit.
-- 🍽️ **Restaurant Recommendation Engine:** A multi-criteria prototype utilizing open-source data APIs.
-- 🎮 **2D Caro Game:** Developed using procedural programming in C/C++.
+<h1 align="center">Hi there, I'm Âu Bảo Trân 👋</h1>
 
 <p align="center">
-  <i>Learning one commit at a time.</i>
+  <strong>Information Technology Student @ HCMUS</strong>
+</p>
+
+<p align="center">
+  Exploring software development, cloud systems, and cybersecurity.<br>
+  Turning complex problems into practical solutions — one commit at a time.
+</p>
+
+<p align="center">
+  <a href="mailto:tranau.work@gmail.com">
+    <img src="https://img.shields.io/badge/Email-tranau.work%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/abt1010">
+    <img src="https://img.shields.io/badge/GitHub-abt1010-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+---
+
+## A little about me... ✨
+
+```text
+🎓  Information Technology student at HCMUS
+☁️  Aspiring Cloud Security Engineer
+🧑‍💻  Full-stack development enthusiast
+🛡️  Interested in cloud infrastructure, networking, and security
+🤝  Experienced in Agile workflows and Scrum teamwork
+```
+
+I enjoy understanding how systems work behind the scenes—from application logic and databases to cloud infrastructure and security.
+
+Outside of coding, you will probably find me creating pixel art, searching for Witcher gear in *The Witcher 3*, or building something unnecessarily complicated in Minecraft.
+
+---
+
+## Technologies I work with... 🛠️
+
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=cpp,py,js,html,css,react,nodejs,fastapi,firebase,mysql,git,github,linux,docker&perline=7"
+    alt="Technology stack"
+  />
+</p>
+
+<table align="center">
+  <tr>
+    <td align="center"><strong>Languages</strong></td>
+    <td>C++, Python, JavaScript, SQL</td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Frontend</strong></td>
+    <td>HTML, CSS, React</td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Backend</strong></td>
+    <td>Node.js, FastAPI, Streamlit</td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Data & Cloud</strong></td>
+    <td>MySQL, Firebase, Firestore, Docker</td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Workflow</strong></td>
+    <td>Git, GitHub, Agile, Scrum</td>
+  </tr>
+</table>
+
+---
+
+## Things I've built... 🚀
+
+### 📝 Note-taking Web Application
+
+A deployed web application for organizing and managing personal notes, powered by Firebase Firestore and Streamlit.
+
+`Python` `Streamlit` `Firebase` `Firestore`
+
+### 🍽️ Restaurant Recommendation Engine
+
+A multi-criteria recommendation prototype that processes open-source data to suggest restaurants based on user preferences.
+
+`Python` `Data Processing` `Open-source APIs`
+
+### 🎮 2D Caro Game
+
+A console-based Caro game developed to practise procedural programming, game logic, and structured problem-solving.
+
+`C` `C++` `Procedural Programming`
+
+---
+
+## What I'm exploring... 🌱
+
+- Cloud infrastructure and cloud security
+- Computer networking and Linux
+- Secure backend development
+- Data structures and algorithms
+- Building and deploying full-stack applications
+
+---
+
+<p align="center">
+  <i>“The best way to understand a system is to build one.”</i>
+</p>
+
+<p align="center">
+  Thanks for stopping by! ✨
 </p>
