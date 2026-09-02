@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e3b5e1fe-0b4c-47d6-b21f-1fe4d2023556" alt="Cyberpunk pixel art banner" width="100%" />
+  <img src="https://github.com/user-attachments/assets/021eb644-df00-4f32-af39-53187c953d71" alt="pixel art banner" width="100%" />
 </p>
 
 <h1 align="center">Hi there, I'm Âu Bảo Trân 👋</h1>
