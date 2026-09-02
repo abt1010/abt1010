@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.gif" alt="Pixel art banner" width="100%" />
+  <img src="https://github.com/user-attachments/assets/f2e5917a-b68e-402e-a9f5-61d1f28dd539" alt="WitchCoder pixel art banner" width="100%" />
 </p>
 
 <h1 align="center">Hi there, I'm Âu Bảo Trân 👋</h1>
@@ -9,38 +9,35 @@
 </p>
 
 <p align="center">
-  Exploring software development, cloud systems, and system design.<br>
-  Turning complex problems into practical solutions.
+  Exploring software development, cloud systems, and cybersecurity.<br>
+  Turning complex problems into practical solutions — one commit at a time.
 </p>
 
 <p align="center">
   <a href="mailto:tranau.work@gmail.com">
     <img src="https://img.shields.io/badge/Email-tranau.work%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  <a href="https://www.linkedin.com/in/tran-au/">
+    <img src="https://img.shields.io/badge/LinkedIn-tran--au-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
   <a href="https://github.com/abt1010">
     <img src="https://img.shields.io/badge/GitHub-abt1010-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
----
+A little about me... ✨
 
-## A little about me... ✨
-
-```text
 🎓  Information Technology student at HCMUS
 ☁️  Aspiring Cloud Security Engineer
 🧑‍💻  Full-stack development enthusiast
 🛡️  Interested in cloud infrastructure, networking, and security
 🤝  Experienced in Agile workflows and Scrum teamwork
-```
 
 I enjoy understanding how systems work behind the scenes—from application logic and databases to cloud infrastructure and security.
 
-Outside of coding, you will probably find me creating pixel art, searching for Witcher gear in *The Witcher 3*, or building something unnecessarily complicated in Minecraft.
+Outside of coding, you will probably find me creating pixel art, searching for Witcher gear in The Witcher 3, or building something unnecessarily complicated in Minecraft.
 
----
-
-## Technologies I work with... 🛠️
+Technologies I work with... 🛠️
 
 <p align="center">
   <img
@@ -72,39 +69,37 @@ Outside of coding, you will probably find me creating pixel art, searching for W
   </tr>
 </table>
 
----
+Things I've built... 🚀
 
-## Things I've built... 🚀
-
-### 📝 Note-taking Web Application
+📝 Note-taking Web Application
 
 A deployed web application for organizing and managing personal notes, powered by Firebase Firestore and Streamlit.
 
-`Python` `Streamlit` `Firebase` `Firestore`
+Python Streamlit Firebase Firestore
 
-### 🍽️ Restaurant Recommendation Engine
+🍽️ Restaurant Recommendation Engine
 
 A multi-criteria recommendation prototype that processes open-source data to suggest restaurants based on user preferences.
 
-`Python` `Data Processing` `Open-source APIs`
+Python Data Processing Open-source APIs
 
-### 🎮 2D Caro Game
+🎮 2D Caro Game
 
 A console-based Caro game developed to practise procedural programming, game logic, and structured problem-solving.
 
-`C` `C++` `Procedural Programming`
+C C++ Procedural Programming
 
----
+What I'm exploring... 🌱
 
-## What I'm exploring... 🌱
+Cloud infrastructure and cloud security
 
-- Cloud infrastructure 
-- Computer networking and Linux
-- Secure backend development
-- Data structures and algorithms
-- Building and deploying full-stack applications
+Computer networking and Linux
 
----
+Secure backend development
+
+Data structures and algorithms
+
+Building and deploying full-stack applications
 
 <p align="center">
   <i>“The best way to understand a system is to build one.”</i>
