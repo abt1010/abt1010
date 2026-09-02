@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/225d5096-294a-452d-849e-78053485ee6b" alt="WitchCoder pixel art banner" width="100%" />
+  <img src="https://github.com/user-attachments/assets/e3b5e1fe-0b4c-47d6-b21f-1fe4d2023556" alt="Cyberpunk pixel art banner" width="100%" />
 </p>
 
 <h1 align="center">Hi there, I'm Âu Bảo Trân 👋</h1>
