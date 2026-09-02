@@ -9,8 +9,8 @@
 </p>
 
 <p align="center">
-  Exploring software development, cloud systems, and cybersecurity.<br>
-  Turning complex problems into practical solutions — one commit at a time.
+  Exploring software development, cloud systems, and system design.<br>
+  Turning complex problems into practical solutions.
 </p>
 
 <p align="center">
@@ -98,7 +98,7 @@ A console-based Caro game developed to practise procedural programming, game log
 
 ## What I'm exploring... 🌱
 
-- Cloud infrastructure and cloud security
+- Cloud infrastructure 
 - Computer networking and Linux
 - Secure backend development
 - Data structures and algorithms
