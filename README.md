@@ -1,53 +1,34 @@
-<div align="center">
+![Pixel Art Banner](./assets/banner.gif)
 
-# Hi, I'm Âu Trân 👋
+## Hi there, I'm Âu Bảo Trân 👋
 
-### Information Technology Student · Aspiring Cloud Security Engineer
+***abt1010/abt1010*** is where I introduce myself, document my learning journey, and share the projects I build along the way.
 
-<p>
-  Building solid foundations in software development, networking,
-  cloud computing and cybersecurity.
-</p>
+I'm an Information Technology student at HCMUS (VNUHCM - University of Science), passionate about software development, cloud systems, and turning complex problems into practical solutions.
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-<a href="YOUR_LINKEDIN_URL">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
+## Something about me... ✨
 
-</div>
+- 🎓 I'm studying **Information Technology at HCMUS**.
+- ☁️ I'm working toward becoming a **Cloud Security Engineer / Full-stack Developer**.
+- 💻 My tech stack currently involves **C++, Python (FastAPI, Streamlit), SQL, and Firebase**, alongside **JavaScript, Node.js, and React**.
+- 🤝 I actively participate in the community, serving as Project Manager for the **"DEBUG Cuối Kỳ"** program and joining volunteer campaigns like **Xuân Yêu Thương** & **Xuân Tình Nguyện**.
+- 🚀 I enjoy Agile methodologies and have experience working in Scrum teams.
+- 📫 Contact me at: **[Your Email]**
+- ⚡ Fun facts: When I'm not coding, I'm probably creating pixel art, tracking down Witcher gear in *The Witcher 3*, or doing some home workouts!
 
----
-
-## 👨‍💻 About Me
-
-- 🎓 Information Technology student at **VNUHCM - University of Science**
-- ☁️ Interested in **Cloud Computing and Cloud Security**
-- 🌱 Currently learning **Web Development, Networking and Cybersecurity**
-- 🧠 Improving my **Data Structures and Algorithms**
-- 🎯 Goal: Become a **Cloud Security Engineer**
-- 🤝 Open to learning, collaboration and student projects
-
-## 🛠️ Tech Stack
-
-### Languages
+## Things I work with... 🛠️
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,js,html,css,r" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,nodejs,react,firebase,mysql,fastapi,git,github,linux,docker" />
 </p>
 
-### Technologies and Tools
+## What I'm building & My Projects... 🚀
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,react,git,github,vscode,linux,docker,azure" />
+- 🌍 **Travel Website:** Collaborating in an 8-member Agile Scrum team.
+- 📝 **Note-taking Web App:** Built and deployed using Firebase Firestore and Streamlit.
+- 🍽️ **Restaurant Recommendation Engine:** A multi-criteria prototype utilizing open-source data APIs.
+- 🎮 **2D Caro Game:** Developed using procedural programming in C/C++.
+
+<p align="center">
+  <i>Learning one commit at a time.</i>
 </p>
-
-## 📚 Currently Learning
-
-```text
-☁️ Cloud Computing
-🔐 Cybersecurity Fundamentals
-🌐 Computer Networking
-⚙️ Backend Development
-🧩 Data Structures and Algorithms
