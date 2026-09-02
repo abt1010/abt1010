@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f2e5917a-b68e-402e-a9f5-61d1f28dd539" alt="WitchCoder pixel art banner" width="100%" />
+  <img src="https://github.com/user-attachments/assets/225d5096-294a-452d-849e-78053485ee6b" alt="WitchCoder pixel art banner" width="100%" />
 </p>
 
 <h1 align="center">Hi there, I'm Âu Bảo Trân 👋</h1>
