@@ -8,9 +8,6 @@
   <strong>Information Technology Student @ HCMUS</strong>
 </p>
 
-<p align="center">
-  Exploring software development, cloud systems.<br>
-  Turning complex problems into practical solutions.
 </p>
 
 <p align="center">
