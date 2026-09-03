@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  Exploring software development, cloud systems, and cybersecurity.<br>
+  Exploring software development, cloud systems.<br>
   Turning complex problems into practical solutions.
 </p>
 
