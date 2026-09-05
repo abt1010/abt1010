@@ -25,14 +25,11 @@
 A little about me... ✨
 
 🎓  Information Technology student at HCMUS
-🧑‍💻  Full-stack development enthusiast
-🛡️  Interested in cloud infrastructure, networking
+🧑‍💻  Full-stack development
 
 I enjoy understanding how systems work behind the scenes-from application logic and databases to cloud infrastructure.
-
 Outside of coding, you will probably find me creating pixel art, searching for Witcher gear in The Witcher 3, or building something unnecessarily complicated in Minecraft.
-
-Technologies I work with... 🛠️
+Technologies I work with... 
 
 <p align="center">
   <img
@@ -57,10 +54,6 @@ Technologies I work with... 🛠️
   <tr>
     <td align="center"><strong>Data & Cloud</strong></td>
     <td>MySQL, Firebase, Firestore, Docker</td>
-  </tr>
-  <tr>
-    <td align="center"><strong>Workflow</strong></td>
-    <td>Git, GitHub, Agile, Scrum</td>
   </tr>
 </table>
 
