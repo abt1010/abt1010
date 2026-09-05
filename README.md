@@ -38,24 +38,6 @@ Technologies I work with...
   />
 </p>
 
-<table align="center">
-  <tr>
-    <td align="center"><strong>Languages</strong></td>
-    <td>C++, Python, JavaScript, SQL</td>
-  </tr>
-  <tr>
-    <td align="center"><strong>Frontend</strong></td>
-    <td>HTML, CSS, React</td>
-  </tr>
-  <tr>
-    <td align="center"><strong>Backend</strong></td>
-    <td>Node.js, FastAPI, Streamlit</td>
-  </tr>
-  <tr>
-    <td align="center"><strong>Data & Cloud</strong></td>
-    <td>MySQL, Firebase, Firestore, Docker</td>
-  </tr>
-</table>
 
 <p align="center">
   <i>“The best way to understand a system is to build one.”</i>
