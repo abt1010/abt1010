@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/021eb644-df00-4f32-af39-53187c953d71" alt="pixel art banner" width="100%" />
+  <img src="https://github.com/user-attachments/assets/81246bf0-4911-430b-b71e-55a5d0c8b739" alt="pixel art banner" width="100%" />
 </p>
 
 <h1 align="center">Hi there, I'm Tran Au 👋</h1>
