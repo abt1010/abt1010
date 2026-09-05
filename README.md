@@ -64,27 +64,6 @@ Technologies I work with... 🛠️
   </tr>
 </table>
 
-Things I've built... 🚀
-
-📝 Note-taking Web Application
-
-A deployed web application for organizing and managing personal notes, powered by Firebase Firestore and Streamlit.
-
-Python Streamlit Firebase Firestore
-
-🍽️ Restaurant Recommendation Engine
-
-A multi-criteria recommendation prototype that processes open-source data to suggest restaurants based on user preferences.
-
-Python Data Processing Open-source APIs
-
-🎮 2D Caro Game
-
-A console-based Caro game developed to practise procedural programming, game logic, and structured problem-solving.
-
-C C++ Procedural Programming
-
-
 <p align="center">
   <i>“The best way to understand a system is to build one.”</i>
 </p>
