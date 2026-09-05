@@ -23,10 +23,8 @@
 </p>
 
 A little about me... ✨
-
 🎓  Information Technology student at HCMUS
 🧑‍💻  Full-stack development
-
 I enjoy understanding how systems work behind the scenes-from application logic and databases to cloud infrastructure.
 Outside of coding, you will probably find me creating pixel art, searching for Witcher gear in The Witcher 3, or building something unnecessarily complicated in Minecraft.
 Technologies I work with... 
