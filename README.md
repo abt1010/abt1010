@@ -2,7 +2,7 @@
   <img src="https://github.com/user-attachments/assets/81246bf0-4911-430b-b71e-55a5d0c8b739" alt="pixel art banner" width="100%" />
 </p>
 
-<h1 align="center">Hi there, I'm Tran Au 👋</h1>
+<h1 align="center">Hi there, I'm Tran Au </h1>
 
 <p align="center">
   <strong>Information Technology Student @ HCMUS</strong>
